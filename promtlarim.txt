@@ -1,0 +1,25 @@
+ChatGPT
+.................
+Selam ChatGPT. Senle birlikte bir portfolyo websitesi yazacağız. Konuyu senin seçmeni istiyorum, konuyu senin seçmeni istediğim için sana bir konu vermeyeceğim. Senin seçtiğin bu konu hakkında, son kullanıcının rahat bir şekilde kullanabileceği bir website tasarlamanı istiyorum. Renkler birbirine karışmamalı, bu çok önemli. Renklerin birbirine karışmamasını sağlayarak son kullanıcıyı memnun edecek bir website tasarlamış olacağız.
+Bu websiteyi yaparken HTML ve CSS kodları kullanmanı istiyorum. Bu kodları bana ayrı ayrı vermen gerekiyor. Böylelikle ben de rahat bir şekilde kullanabileceğim.
+Bu websitenin tasarımında semantik etiketler olan header, main, nav, section, article, aside, footer etiketlerini kullanmanı istiyorum. Bu etiketler sitenin güzel okunabilmesini sağlayacaklar aynı zamanda. 
+Son olarak hedeflerinden bahsetmeden önce senden istediğim şey CSS kodlarını yazarken bu sitenin hem mobil, hem de tablet uyumlu olmasını sağlayacak olan kodları unutmaman.
+Şimdi hedeflerinden bir kez daha bahsetmek gerekirse:
+1. Bahsettiğim semantik etiketleri kullanmalısın.
+2. HTML ve CSS kodlarını bana ayrı ve güzel bir şekilde vermelisin. Bu kodları yazarken son kullanıcının site içinde alacağı deneyimi de önemsemeni istiyorum.
+3. Bu site aynı zamanda bilgisayar ile birlikte mobil ve tablet cihazlar için de güzel görünmeli.
+4. Bu sitenin konusunu seçme kısmı ait. Seçtiğin konu için de site içinde birkaç içerik üretmen gerekiyor.
+5. Sitenin sekme kısmındaki logosunun kodunu oluşturup resim eklemeyi bana bırakmanı istiyorum.
+6. Oluşturduğun içerik için de bir fotoğraf ekleme kısmı bırakmanı istiyorum, src="" etiketini sen yaz, resmi de daha sonra ben ekleyeceğim.
+Uymanı istediğim kurallar ve gerçekleştirmeni beklediğim hedefler bu şekilde. Dediğim şeyleri anladıysan evet yazmanı, anlamadıysan da hayır yazmanı istiyorum ilk olarak.
+
+.................
+
+O halde yazdığım kurallara ve verdiğim hedeflere uyarak bu siteyi şimdi oluşturabilirsin.
+.................
+
+Sitenin logosunu ve içeriklerle alakalı fotoğrafları eklemeyi unuttun. Aynı zamanda içerikler kart şeklinde sıralı olmalı. Ve bu içerikleri proje 1, proje 2 şeklinde değil de senin oluşturman gerekiyor. Sen hem bu siteye bir konu bulup siteyi bu konu üzerinden oluşturacaksın, hem de içerikleri kendi bulduğun konuya uygun olarak oluşturacaksın. Ve bu resim kısımlarını oluşturacaksın, ben de sadece resim konumu girerek resimlerimi ekleyeceğim. Şimdi bu şekilde düzeltmeleri gerçekleştirebilir misin?
+.................
+
+Güzel, ancak resimlerle alakalı kısımları hala eklemedin. Sitenin sekmesi için bir logo ekleyeceğim kısmı oluştur, sitenin meta açıklamalarını ve sitenin başlığını yazacağım kısmı da oluştur. Eklediğin içerikleri beğendim, ancak bu içeriklerin kartlarına fotoğraf ekleyeceğim kısmı hala oluşturmadın, onu da oluşturmanı istiyorum.
+
